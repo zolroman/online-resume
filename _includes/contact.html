@@ -15,12 +15,12 @@
   </div>
   {%- endif %}
 
-  {%- if contact.phone %}
+  {%- for phone in contact.phones %}
   <div class="contact-item" title="phone">
     <i class="fa-solid fa-phone"></i>
-    <a href="tel:{{ contact.phone }}">{{ contact.phone }}</a>
+    <a href="tel:{{ contact.phone }}">{{ phone }}</a>
   </div>
-  {%- endif %}
+  {%- endfor %}
 
   {%- if contact.website %}
   <div class="contact-item" title="website">
