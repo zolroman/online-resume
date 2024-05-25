@@ -11,7 +11,7 @@ sass:
 # Custom
 lang: en
 open: true                  # show or hide your resume
-allow_search_engines: false  # allow your resume indexing by search engine, 'true' or 'false'
+allow_search_engine: false  # allow your resume indexing by search engine, 'true' or 'false'
 analytics:
   google:                   # google analytics
   cloudflare:               # cloudflare analytics
