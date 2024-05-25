@@ -85,8 +85,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Software Engineer with extensive experience in software development, system design, and team management. 
-    Skilled in leading teams, translating complex product requirements into technical solutions, and optimizing delivery processes. Proficient in .NET and C#.
+    Highly skilled and experienced software engineer with a proven track record of leading teams, designing and developing complex systems, and optimizing delivery processes. Proficient in .NET and C#.
 
 
 experience:
@@ -96,7 +95,7 @@ experience:
   description:
 
   items:
-    - company: PAYLER LTD
+    - company: PAYLER
       link: https://payler.com
       tags: 
       date: Sep 2023 - Present
@@ -105,14 +104,14 @@ experience:
       description: |
         Domain: FinTech 
 
-        +	Conducting code reviews for my colleagues, helping them improve code quality and readability.
-        +	Assisting colleagues with complex technical tasks, sharing my knowledge and experience.
         +	Implemented Domain-Driven Design Approach:
             +	Designed a payment processing system based on DDD principles.
             +	Trained the team on DDD fundamentals, enhancing their design and development skills.
         +	Introduced Unit and Integration Testing Culture.
         +	Improved code quality and reduced errors by implementing unit and integration testing practices.
         +	Designing interactions between systems, ensuring smooth operation and high performance.
+        +	Conducting code reviews for my colleagues, helping them improve code quality and readability.
+        +	Assisting colleagues with complex technical tasks, sharing my knowledge and experience.
         +	Translating product requirements into clear technical tasks, facilitating their implementation.
         +	Leading a team of 10 professionals, overseeing project development and ensuring successful delivery.
         +	Conducting regular one-on-one meetings with team members, providing motivation and feedback.
@@ -122,7 +121,7 @@ experience:
         Code quality has significantly improved, and defects have been reduced.
 
 
-    - company: STENN LTD
+    - company: STENN
       link: https://www.stenn.com/
       tags:
       date: Sep 2022 - Sep 2023
@@ -131,14 +130,16 @@ experience:
       description: |
         Domain: FinTech
 
-        + Assembled the development team and guided them to the performing stage.
-        + Established and managed the communication flow between the team and the product owners.
-        + Enhanced the client onboarding system of the fintech solution.
-        + Produced a series of shared libraries for internal use.
-        + Developed a core service template to enhance the seamless generation of new microservices across the company.
+        + Developed a core service template that simplifies the creation of new microservices across the company.
+        + Enhanced the client onboarding system for the FinTech solution, contributing to a more streamlined user experience.
+        + Created a series of shared libraries for internal use, promoting efficiency among developers.
+        + Assembled a software development team and provided guidance to help them reach their full potential.
+        + Established clear communication channels between the engineering team and product owners to ensure smooth project execution.
+        
+        
 
-    - company: AIS Novations
-      link: https://www.stenn.com/
+    - company: SYMFA
+      link: https://symfa.com/
       tags:
       date: Apr 2021 - Sep 2022
       role: Senior Software Engineer / Team Lead
@@ -146,8 +147,12 @@ experience:
       description: |
         Domain: Insurance
 
-        + Managed a team of 5 members on a project for an international insurance company.
-        + Contributed to the division of a large legacy monolith into microservices.
+        + Created a roadmap for dividing a large legacy monolithic system into microservices.
+        + Designed a microservices architecture.
+        + Developed critical components for the new microservices architecture.
+        + Conducted code reviews for colleagues and provided feedback to enhance code quality and readability.
+        + Managed a team of 5 software engineers, ensuring smooth collaboration and project execution.
+
 
     - company: UPTEAM
       link: https://www.upteam.com/
@@ -175,7 +180,7 @@ experience:
         + Designed and developed a subsystem for document workflow automatization.
         + Translated client requirements into technical tasks.
 
-    - company: NFORCE LTD
+    - company: NFORCE
       link: https://nforceit.ru/
       tags:
       date: Nov 2011 - Apr 2017
