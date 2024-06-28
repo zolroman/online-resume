@@ -11,7 +11,7 @@ contact:
   email: zolroman@gmail.com    # email address
   phones: 
     - +(381) 628756116 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-    - +(995) 591922546 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+    #- +(995) 591922546 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
