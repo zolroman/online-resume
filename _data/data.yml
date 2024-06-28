@@ -85,12 +85,12 @@ profile:
   order: 1
   title: Profile
   description: |
-    Highly skilled and experienced software engineer with a proven track record of leading teams, designing and developing complex systems, and optimizing delivery processes. Proficient in .NET and C#.
+    Highly skilled software engineer with 13+ years of experience and a proven track record in leading teams, designing and developing complex systems, and optimizing delivery processes. Proficient in .NET and C#.
 
 
 experience:
   show: true
-  order: 2
+  order: 4
   title: Experiences
   description:
 
@@ -227,7 +227,7 @@ project:
 
 skill:
   show: true
-  order: 4
+  order: 3
   title: Skills
   description:
 
@@ -244,22 +244,26 @@ skill:
     #   level: 
 
   groups:
-    - name: 
+    - name: Main
       item:
         - Software Development
         - Software Architecture
         - Team Management
         - .NET
         - C#
-    # - name: Group B Skills
-    #   item:
-    #     - Skill E
-    #     - Skill F
-    #     - Skill G
-    # - name: Group C Skills
-    #   item:
-    #     - Skill H
-    #     - Skill I
+    - name: Architecture
+      item:
+        - DDD
+        - CQRS and ES
+        - Microservices
+    - name: Tools
+      item:
+        - Sql
+        - NoSql
+        - Apache Kafka
+        - RabbitMQ
+        - REST API
+        - GRPC
 
 education:
   show: true
