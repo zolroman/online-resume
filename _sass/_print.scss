@@ -12,16 +12,25 @@
     content: none !important;
   }
 
-  h1, h2, h3, h4, h5, h6, img {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  img {
     break-after: avoid !important;
     break-inside: avoid !important;
   }
 
-  ul, ol {
+  ul,
+  ol {
     break-before: avoid !important;
   }
 
-  a, blockquote, pre {
+  a,
+  blockquote,
+  pre {
     break-inside: avoid !important;
   }
 
@@ -36,7 +45,20 @@
     display: none !important;
   }
 
-  .section-title{
+  .section-title {
     margin-bottom: 5px !important;
   }
+
+  .wrapper section:not(:last-child) {
+    margin-bottom: 5px !important;
+  }
+
+  .wrapper section .section-content .items .item {
+    margin-bottom: 5px !important;
+  }
+
+  .wrapper .skill .section-content .groups .group .group-name {
+    font-weight: 600;
+    flex-basis: 15%;
+}
 }
