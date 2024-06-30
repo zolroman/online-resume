@@ -244,20 +244,20 @@ skill:
     #   level: 
 
   groups:
-    - name: Main
+    - name: Key
       item:
         - Software Development
         - Software Architecture
         - Team Management
         - .NET
         - C#
-    - name: Architecture
+    - name: Other
       item:
+        - AWS
+        - Azure 
         - DDD
         - CQRS and ES
         - Microservices
-    - name: Tools
-      item:
         - Sql
         - NoSql
         - Apache Kafka
