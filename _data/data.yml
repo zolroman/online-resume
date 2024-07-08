@@ -99,11 +99,15 @@ experience:
       link: https://payler.com
       tags: 
       date: Sep 2023 - Present
-      role: Principal Software Engineer / Team Lead
+      role: Engineering Manager
       location: 
       description: |
         Domain: FinTech 
 
+        +	Leading a team of 10 professionals, overseeing project development and ensuring successful delivery.
+        +	Conducting regular one-on-one meetings with team members, providing motivation and feedback.
+        +	Planning sprints, calculating team metrics such as velocity and Time to Market.
+        +	Translating product requirements into clear technical tasks, facilitating their implementation.
         +	Implemented Domain-Driven Design Approach:
             +	Designed a payment processing system based on DDD principles.
             +	Trained the team on DDD fundamentals, enhancing their design and development skills.
@@ -111,11 +115,7 @@ experience:
         +	Improved code quality and reduced errors by implementing unit and integration testing practices.
         +	Designing interactions between systems, ensuring smooth operation and high performance.
         +	Conducting code reviews for my colleagues, helping them improve code quality and readability.
-        +	Assisting colleagues with complex technical tasks, sharing my knowledge and experience.
-        +	Translating product requirements into clear technical tasks, facilitating their implementation.
-        +	Leading a team of 10 professionals, overseeing project development and ensuring successful delivery.
-        +	Conducting regular one-on-one meetings with team members, providing motivation and feedback.
-        +	Planning sprints, calculating team metrics such as velocity and Time to Market.
+        +	Assisting colleagues with complex technical tasks, sharing my knowledge and experience.     
 
         My contributions have fostered a more cohesive and productive team environment.
         Code quality has significantly improved, and defects have been reduced.
