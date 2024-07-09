@@ -10,3 +10,4 @@ source "https://rubygems.org"
 gem "jekyll"
 
 gem "webrick", group: :development
+gem "kramdown-parser-gfm"
