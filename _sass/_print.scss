@@ -60,5 +60,9 @@
   .wrapper .skill .section-content .groups .group .group-name {
     font-weight: 600;
     flex-basis: 15%;
-}
+  }
+
+  .wrapper .skill .section-content .groups .group .group-item {
+    flex-basis: 85%;
+  }
 }
