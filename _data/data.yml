@@ -1,6 +1,6 @@
 basic:
   name: Roman Zolotukhin                     # name
-  title: Senior Software Engineer           # job title
+  title: Engineering Manager           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
